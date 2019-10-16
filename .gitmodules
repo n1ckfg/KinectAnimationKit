@@ -1,0 +1,9 @@
+[submodule "KinectToPin"]
+	path = KinectToPin
+	url = https://github.com/n1ckfg/KinectToPin
+[submodule "KinectToVideo"]
+	path = KinectToVideo
+	url = https://github.com/n1ckfg/KinectToVideo
+[submodule "KinectToFrame"]
+	path = KinectToFrame
+	url = https://github.com/n1ckfg/KinectToFrame
